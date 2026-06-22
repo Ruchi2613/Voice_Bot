@@ -1,0 +1,23 @@
+# NEVER commit these — secret API keys live here
+.env
+
+# Python cache files — auto-generated, not needed
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# Audio recordings — too large for GitHub
+recordings/*.mp3
+recordings/*.wav
+
+# macOS junk file
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
